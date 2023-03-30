@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 0
 ---
 
-Any text in this document appears above the project grid in the Portfolio view
+Hi! My name is Caitlin
