@@ -10,9 +10,11 @@ eleventyNavigation:
   order: 2
 ---
 
+![](img/spectacleinterior.tiff)
+
 ## Background
 
-As a freelance graphic designer, I was approached by a local nonprofit organization called "Community Builders" that focuses on community development and advocacy for underprivileged neighborhoods. The organization was struggling to attract new volunteers and donors due to a lack of effective branding and messaging. They reached out to me to redesign their branding and marketing materials to increase engagement and awareness about their mission.
+As a freelance graphic designer, I was approached by a local nonprofit organization called "Community Builders" that focuses on community development and advocacy for underprivileged neighborhoods. The organization was struggling to attract new volunteers and donors due to a lack of effective branding and messaging. They reached out to me to redesign their branding and marketing materials to increase engagement and awareness about their mission. 
 
 ## Goals
 
