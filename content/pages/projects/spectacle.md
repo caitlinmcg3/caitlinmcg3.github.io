@@ -10,7 +10,6 @@ eleventyNavigation:
   order: 2
 ---
 
-![](img/spectacleinterior.tiff)
 
 ## Background
 
